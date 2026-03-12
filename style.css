@@ -12,7 +12,7 @@ h1 {
 }
 
 .content {
- color: aliceblue;
+ color: black !important;
   line-height: 1.3em;
   text-align: left;
   width: 100%;
