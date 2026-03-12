@@ -41,6 +41,15 @@ h2 {
   font-family: Georgia;
 }
 
+h3{
+   color: black !important;
+  font-size: 2em;
+  padding-top: 100px;
+  width: 100%;
+  font-family: Georgia;
+  text-align: center;
+}
+
 .google {
  font-family: Helvetica;
   color: rgba(255, 255, 255, 0.5);
