@@ -11,6 +11,24 @@ h1 {
   text-align: center;
 }
 
+.content {
+ color: aliceblue;
+  line-height: 1.3em;
+  text-align: left;
+  width: 100%;
+  font-family: Helvetica;
+  font-size: 18px;
+  font-weight: bold;
+}
+
+
+.sample {
+  background-image: url('https://content.codecademy.com/courses/freelance-1/unit-2/soccer.jpeg');
+  background-size: cover;
+  background-position: center;
+  height: 300px;
+}
+
 h2 {
   border-bottom: 1px solid rgba(255, 255, 255, 0.5);
   color: black !important;
@@ -23,6 +41,15 @@ h2 {
   font-family: Georgia;
 }
 
+.google {
+ font-family: Helvetica;
+  color: rgba(255, 255, 255, 0.5);
+  float: left;
+  font-size: 14px;
+  padding-left: 10px;
+  text-transform: uppercase;
+}
+
 .sign {
   \
   font-family: Helvetica;
@@ -32,42 +59,4 @@ h2 {
   padding-left: 10px;
   text-transform: uppercase;}
 
-.school {
-  display: block;
-  font-family: 'Playfair Display', serif;
-  font-size: 14px;
-  font-style: italic;
-  line-height: 14px;
-  margin-left: 20px;
-  padding: 10px;
-  position: relative;
-  top: 80%;
-  width: 60%;
-  color: black;
-}
 
-.content {
- color: aliceblue;
-  line-height: 1.3em;
-  text-align: left;
-  width: 100%;
-  font-family: Helvetica;
-  font-size: 18px;
-  font-weight: bold;
-}
-
-.sample {
-  background-image: url('https://content.codecademy.com/courses/freelance-1/unit-2/soccer.jpeg');
-  background-size: cover;
-  background-position: center;
-  height: 300px;
-}
-
-.google {
- font-family: Helvetica;
-  color: rgba(255, 255, 255, 0.5);
-  float: left;
-  font-size: 14px;
-  padding-left: 10px;
-  text-transform: uppercase;
-}
