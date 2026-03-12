@@ -1,10 +1,10 @@
 background {
   /* Old browsers */
-  background: #141E30;
+  background-image: urlub 
   /* Chrome 10-25, Safari 5.1-6 */
-  background: -webkit-linear-gradient(-45deg, #35577D, #141E30);
+  background: 
   /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
-  background: linear-gradient(-45deg, #35577D, #141E30);
+  background: 
   margin: 0;
   padding: 0;
 }
@@ -31,13 +31,13 @@ h2 {
 }
 
 .sign {
+  \
   font-family: Helvetica;
   color: rgba(255, 255, 255, 0.5);
   float: left;
   font-size: 14px;
   padding-left: 10px;
-  text-transform: uppercase;
-}
+  text-transform: uppercase;}
 
 . {
   display: block;
