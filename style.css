@@ -1,3 +1,4 @@
  body {
-  background: url(art-club-background.jpg);
+  background-image: url(art-club-background.jpg);
+  background-repeat: no-repeat;
 }
