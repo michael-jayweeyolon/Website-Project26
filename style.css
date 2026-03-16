@@ -89,12 +89,12 @@ h3{
 #credit {
   font-family: Georgia;
   color: black !important;
-  text-algin: bottom !important;
+  font-size: 18px;
 }
 
 #cheese {
   text-align: center !important;
-  
+  font-size: 18px;
 }
 
 #sci {
