@@ -3,8 +3,8 @@ background{
 }
 
 .button {
-  text-size: 20px;
-  
+  text-size: 10px;
+  align-items: flex-start;
 }
 
 #home{
