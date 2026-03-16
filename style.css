@@ -47,6 +47,12 @@ h1 {
 #picture {
 
   text-align: top !important;
+  color: black !important;
+  font-size: 2em;
+  padding-top: 100px;
+  width: 100%;
+  font-family: Georgia;
+  text-align: center;
 }
 
 .sample {
